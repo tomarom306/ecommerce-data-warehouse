@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,brand,price,cost,stock_quantity,supplier_id,created_date
+1,Raise Film,Home & Garden,Home & Garden - Rest,Pruitt Ltd,154.86,400.06,280,1,2023-03-14
+2,Life Point,Electronics,Electronics - White,Gibson-Murphy,383.37,484.54,387,7,2023-08-21
+3,Statement Once,Electronics,Electronics - At,Cameron LLC,183.96,365.52,313,38,2023-07-05
+4,Particular Because,Sports,Sports - Understand,Wilson Ltd,104.58,177.71,585,19,2024-09-10
+5,Heavy Spend,Books,Books - Interest,Lawrence Group,278.33,54.04,49,11,2024-05-17
+6,Police Team,Home & Garden,Home & Garden - Feel,Howard LLC,947.04,197.83,353,48,2024-06-23
+7,Continue Radio,Toys,Toys - Stop,"Lane, Castro and Johnson",968.31,268.18,608,26,2023-02-08
+8,Green Establish,Sports,Sports - Blue,Alexander-Copeland,596.38,133.24,703,33,2024-10-27
+9,Ability Field,Toys,Toys - Describe,Gonzalez and Sons,163.93,67.55,387,37,2023-10-05
+10,Rock Cell,Toys,Toys - Want,Nunez LLC,274.69,459.63,654,24,2024-10-25
+11,One Various,Toys,Toys - Describe,"Gilbert, Taylor and King",779.74,340.72,428,46,2024-10-09
+12,Ten Affect,Sports,Sports - Weight,"Fox, Rodriguez and Mercado",191.26,493.19,817,30,2023-05-19
+13,Effect Television,Books,Books - Will,"Walker, Garza and Howell",293.94,476.55,533,46,2024-12-15
+14,Card Different,Clothing,Clothing - Standard,"Hooper, Sanchez and Johnson",312.13,429.67,970,20,2024-02-17
+15,Grow Forward,Sports,Sports - I,Brooks PLC,772.86,423.4,649,6,2024-05-17
+16,Close Guy,Electronics,Electronics - Dark,"Robinson, Cooper and Martinez",732.64,472.71,169,37,2023-03-24
+17,Use Can,Electronics,Electronics - Then,Porter LLC,93.73,146.5,951,32,2023-11-27
+18,Court Identify,Electronics,Electronics - Ten,Lopez Ltd,962.53,214.87,520,47,2024-12-12
+19,Return Court,Clothing,Clothing - Try,"Bolton, Payne and Schultz",484.85,259.93,693,35,2024-04-20
+20,Leave Require,Toys,Toys - While,"Perez, Armstrong and Miranda",133.43,11.88,194,48,2024-11-12
+21,Hope Perform,Electronics,Electronics - Must,Martin-Cuevas,717.01,352.78,767,23,2023-06-17
+22,Various Third,Clothing,Clothing - Five,Hill Group,994.27,332.28,942,34,2024-02-18
+23,Note Defense,Toys,Toys - Hair,"King, Davis and Martin",613.09,305.65,987,11,2024-08-06
+24,Might Cultural,Toys,Toys - Huge,Jones Inc,930.87,383.04,925,15,2024-08-04
+25,Speech Want,Clothing,Clothing - Environment,Villanueva-Donovan,84.36,420.51,526,23,2023-08-10
+26,None Per,Electronics,Electronics - Many,Mendez-Scott,428.49,192.65,382,8,2024-01-03
+27,Offer Choice,Home & Garden,Home & Garden - Material,Smith and Sons,914.89,128.63,552,50,2023-11-09
+28,Someone Show,Electronics,Electronics - Fire,Orr Group,297.15,244.15,271,14,2024-05-13
+29,Record Church,Electronics,Electronics - They,Hill-Santos,740.64,286.58,222,20,2024-12-06
+30,North Capital,Toys,Toys - Physical,Jensen Group,520.36,447.24,957,30,2024-01-13
+31,Worker Him,Books,Books - Example,Diaz-Lynn,849.86,33.46,6,40,2024-04-14
+32,Family Floor,Sports,Sports - Speak,"Campbell, Garcia and Murray",335.26,180.18,5,23,2024-10-23
+33,Central Drive,Toys,Toys - Social,"White, Key and Smith",194.29,180.49,103,28,2023-12-14
+34,Car Mind,Sports,Sports - Pm,Spears-Hernandez,205.56,266.9,920,10,2024-10-03
+35,Ask Sense,Sports,Sports - Watch,"Juarez, Ramos and Hayes",132.59,246.27,159,50,2024-04-05
+36,Nor Guess,Toys,Toys - Bad,Li Inc,257.62,238.0,383,20,2024-10-10
+37,Establish Individual,Home & Garden,Home & Garden - Kind,Ramirez LLC,434.05,95.18,831,18,2023-11-05
+38,Again My,Electronics,Electronics - Hair,"Frye, Diaz and Martin",989.47,329.86,449,11,2024-04-03
+39,Ok Health,Clothing,Clothing - Week,West Ltd,360.19,219.81,367,46,2023-08-08
+40,Seven Can,Clothing,Clothing - Court,Hopkins and Sons,119.55,146.03,136,26,2024-12-26
+41,Off Stay,Sports,Sports - Church,Johnson-Edwards,746.47,450.99,164,43,2023-02-21
+42,Throw Management,Clothing,Clothing - Become,"Morris, Howell and Brown",948.88,480.05,272,8,2023-02-23
+43,Interesting Central,Sports,Sports - Who,Rodgers Group,494.17,250.31,698,46,2024-07-10
+44,Price Maybe,Clothing,Clothing - Executive,Jones Ltd,331.63,383.37,902,26,2024-06-21
+45,Suffer Particularly,Books,Books - Various,Johnson Inc,728.72,372.24,845,25,2025-01-21
+46,Fund Rise,Clothing,Clothing - Series,"Gonzalez, Hart and Brewer",118.63,58.4,21,9,2023-11-27
+47,Blood Run,Clothing,Clothing - Full,Thompson-Huang,350.67,11.76,700,16,2024-11-21
+48,Imagine Tend,Electronics,Electronics - Activity,Kaiser-Curtis,681.52,174.36,999,39,2024-12-22
+49,Need Now,Toys,Toys - Single,Freeman PLC,17.94,242.7,288,32,2023-06-06
+50,Else Color,Electronics,Electronics - Debate,Bradley-Mitchell,763.28,127.63,156,47,2024-11-15
+51,Myself Adult,Books,Books - Both,Leach and Sons,194.98,144.16,117,17,2023-09-05
+52,Suffer Move,Toys,Toys - Local,Ward LLC,254.87,411.2,203,31,2023-11-25
+53,Together Tv,Toys,Toys - Either,"Alvarado, Warner and Beltran",784.88,56.02,747,33,2023-02-25
+54,Be Suggest,Books,Books - From,"Brown, Cortez and Bradford",189.37,496.31,605,41,2024-02-16
+55,Do Teacher,Toys,Toys - Small,"Rodriguez, Rose and Wilson",157.23,64.63,410,3,2024-05-31
+56,Strategy Fish,Home & Garden,Home & Garden - Real,Jacobs and Sons,990.48,464.9,436,2,2024-03-05
+57,Begin Return,Books,Books - That,"Moss, Sexton and Douglas",207.64,432.85,389,27,2023-07-07
+58,Who Phone,Books,Books - Politics,"Cruz, Smith and Turner",313.37,318.49,236,15,2024-11-04
+59,Sea Manage,Home & Garden,Home & Garden - Second,Garcia Inc,431.81,35.37,437,42,2024-02-15
+60,Crime Heavy,Electronics,Electronics - Man,Coleman and Sons,311.24,138.28,287,23,2023-04-27
+61,Apply Field,Toys,Toys - Generation,Ross and Sons,423.88,163.32,48,12,2024-05-19
+62,Radio Form,Electronics,Electronics - Recent,Roberts PLC,10.52,331.91,329,14,2024-02-11
+63,Increase Go,Home & Garden,Home & Garden - Family,Quinn-Smith,477.33,454.7,103,28,2024-02-23
+64,Ahead Line,Clothing,Clothing - Thank,Torres-Khan,259.73,248.19,342,20,2023-06-30
+65,Charge Government,Electronics,Electronics - Camera,Garcia-Scott,105.91,11.76,565,50,2023-05-16
+66,Kid I,Clothing,Clothing - Sound,Lee LLC,337.89,371.94,370,48,2024-10-20
+67,Available Yet,Books,Books - Real,Blanchard-Livingston,533.56,188.94,665,18,2024-08-12
+68,Get Accept,Clothing,Clothing - Road,"Brown, Dean and Davis",588.47,48.18,108,9,2023-12-12
+69,Much Fact,Toys,Toys - Indicate,Lynch-Anderson,745.15,64.58,600,42,2023-09-13
+70,Public Evidence,Clothing,Clothing - Almost,"Lopez, Martin and Diaz",200.99,225.66,101,5,2024-10-26
+71,Pull Early,Books,Books - Store,Spencer-Caldwell,622.81,154.23,485,49,2024-02-16
+72,Traditional Together,Clothing,Clothing - Glass,"Johnson, Scott and Pierce",538.21,81.07,130,13,2024-06-17
+73,Always Woman,Sports,Sports - Conference,Torres-Little,554.98,130.0,898,49,2025-01-10
+74,Reality Final,Books,Books - Only,Gomez and Sons,975.36,447.98,459,41,2023-05-01
+75,Anyone Whom,Toys,Toys - Relationship,Norman-Miller,126.24,220.88,494,27,2024-08-12
+76,And Indeed,Books,Books - Recent,"Martin, Moss and Price",932.01,254.42,22,11,2024-06-16
+77,Happen Throw,Books,Books - Expert,"Olson, Atkinson and Tucker",281.4,483.91,296,3,2024-06-11
+78,Show Tend,Books,Books - Bill,Martin PLC,70.18,486.37,194,48,2024-04-28
+79,Customer Because,Sports,Sports - So,"Mitchell, Gomez and Cline",500.07,268.57,525,5,2024-04-30
+80,Together Develop,Clothing,Clothing - Wish,Chapman Group,443.36,257.09,575,50,2023-07-18
+81,Song Detail,Sports,Sports - Toward,Norris Group,406.83,139.39,188,1,2023-11-03
+82,Wrong But,Clothing,Clothing - Final,Kramer-Schmidt,576.17,298.1,9,33,2025-01-26
+83,Benefit Operation,Sports,Sports - Modern,"Chen, Rodriguez and Blake",508.77,361.69,265,20,2024-08-04
+84,Know World,Clothing,Clothing - Tough,Nelson-Fisher,303.39,137.91,121,11,2023-04-30
+85,Agreement Ok,Clothing,Clothing - Along,Patterson Group,55.15,122.92,40,41,2024-06-11
+86,Trial Environmental,Clothing,Clothing - Gun,"Tucker, Roth and Brown",942.62,142.49,136,18,2023-11-14
+87,Message Possible,Electronics,Electronics - Great,Gibson-Lopez,645.98,128.26,843,14,2024-07-31
+88,Suddenly Attorney,Books,Books - Hundred,Parsons LLC,125.01,326.08,647,39,2023-03-25
+89,More Sure,Home & Garden,Home & Garden - Little,Edwards-Mora,331.31,473.48,905,36,2024-05-20
+90,Center Style,Home & Garden,Home & Garden - Gun,"Holt, Wagner and Clayton",724.85,207.13,626,19,2024-12-30
+91,Media Technology,Home & Garden,Home & Garden - Sing,"Sexton, Kirk and Williams",985.4,314.85,10,23,2023-09-29
+92,Level Never,Clothing,Clothing - Nor,Williams Inc,733.16,143.45,262,2,2024-12-19
+93,Finally Especially,Books,Books - Draw,Reilly-Greene,660.73,434.65,961,50,2023-11-22
+94,Drop Blue,Books,Books - Week,"Roach, Rhodes and Gonzalez",115.37,374.16,391,42,2024-06-01
+95,Gas Beyond,Home & Garden,Home & Garden - Lose,Wagner-Garrison,871.32,318.98,564,14,2023-09-08
+96,Including Collection,Sports,Sports - Last,Robinson-Roberts,228.42,138.05,595,41,2024-06-10
+97,Water Nice,Sports,Sports - Ground,Cox and Sons,164.08,119.7,743,28,2023-05-20
+98,Whose Its,Home & Garden,Home & Garden - Behavior,"Whitaker, Morales and Smith",156.84,242.11,507,12,2023-05-09
+99,Soon Reality,Sports,Sports - Traditional,Allen Inc,193.17,431.86,193,37,2024-08-07
+100,Argue Here,Sports,Sports - Attorney,Smith and Sons,943.91,94.3,288,2,2024-11-22
+101,Best Let,Home & Garden,Home & Garden - Democrat,Kelly Inc,171.28,92.98,403,44,2023-09-29
+102,Pass Catch,Books,Books - Effect,"Manning, Ray and Kim",195.96,76.04,436,16,2024-06-09
+103,Five Section,Sports,Sports - Police,Moyer-Davis,910.03,485.34,102,47,2024-12-01
+104,Push Thousand,Books,Books - Can,Graham Group,145.91,376.47,12,39,2023-03-07
+105,Girl Almost,Electronics,Electronics - Laugh,Fleming and Sons,384.09,15.25,846,1,2023-11-17
+106,Former Say,Toys,Toys - Often,Hill-Wilson,935.32,70.43,788,6,2024-02-09
+107,Strategy Consider,Home & Garden,Home & Garden - Follow,"Massey, Velasquez and Williams",151.2,315.56,13,1,2024-03-01
+108,Subject Yard,Electronics,Electronics - Force,Russo Ltd,546.94,410.04,873,46,2023-10-16
+109,Each Many,Electronics,Electronics - More,"Fields, Pitts and Bailey",210.29,242.81,576,29,2023-10-23
+110,War Seem,Clothing,Clothing - Peace,Simpson PLC,314.3,242.06,249,4,2024-02-14
+111,Federal Animal,Books,Books - True,"Harrison, Butler and Fernandez",695.11,315.61,126,2,2023-12-31
+112,Hot Total,Electronics,Electronics - Yard,Holt Inc,111.78,151.89,523,27,2023-04-18
+113,Meet Camera,Clothing,Clothing - Summer,Flores-Carter,11.19,116.03,232,28,2024-05-23
+114,Military Tree,Sports,Sports - Others,Elliott Inc,155.89,329.41,231,44,2023-12-07
+115,Happen Relate,Sports,Sports - Too,"Parker, Howard and Cantu",689.89,358.85,923,8,2023-03-20
+116,Marriage Or,Sports,Sports - Court,Ingram-Garcia,177.85,59.52,104,19,2024-05-31
+117,Save Send,Home & Garden,Home & Garden - Nor,"Stephens, Boyd and Thompson",85.52,170.19,369,6,2024-07-15
+118,Term Good,Electronics,Electronics - Investment,Jones and Sons,608.45,93.14,543,22,2023-04-08
+119,Order Really,Books,Books - Common,"Lee, Smith and Coleman",189.54,215.5,914,43,2024-12-07
+120,Buy End,Toys,Toys - Certain,Johnson LLC,308.54,409.69,356,7,2024-10-22
+121,Condition Base,Home & Garden,Home & Garden - Hundred,Adams LLC,917.06,332.56,955,17,2024-05-08
+122,Choose It,Toys,Toys - West,Smith Group,800.69,395.48,882,10,2023-09-06
+123,Let Line,Toys,Toys - Which,"Evans, Short and Hughes",155.11,78.15,457,47,2023-10-02
+124,Add Interesting,Sports,Sports - Professor,White-Stone,816.49,61.02,437,47,2024-04-14
+125,One Feeling,Home & Garden,Home & Garden - Despite,May-Perkins,153.21,164.91,130,12,2023-06-26
+126,Hot Smile,Sports,Sports - Save,"Rivera, Walker and Trevino",359.07,249.63,492,45,2024-02-20
+127,Special Indicate,Sports,Sports - New,Higgins-Clark,605.72,320.12,141,42,2023-08-30
+128,Home Central,Clothing,Clothing - Election,"Walls, Kennedy and Davidson",389.34,276.92,551,35,2024-03-21
+129,Huge Night,Sports,Sports - Describe,Lopez-Swanson,537.14,411.6,393,6,2024-04-01
+130,Chance Although,Books,Books - Kitchen,"Sampson, Brewer and Sandoval",717.76,265.84,795,45,2024-12-27
+131,System Close,Toys,Toys - Through,"Williams, Griffin and Andersen",227.13,48.19,370,1,2023-07-26
+132,With Happen,Clothing,Clothing - Manager,"Norton, Mitchell and Reyes",993.96,13.49,571,31,2023-08-21
+133,Exactly Project,Clothing,Clothing - Board,Day Group,921.69,34.49,357,24,2024-12-27
+134,Fight Campaign,Clothing,Clothing - Store,Hahn Inc,301.74,76.35,873,36,2023-12-10
+135,Everybody Former,Sports,Sports - Teach,Stewart-Ortega,250.06,414.77,57,48,2024-09-08
+136,Democratic Explain,Clothing,Clothing - Take,"Hines, Miller and Ruiz",126.05,349.41,146,25,2023-03-28
+137,Hear Safe,Toys,Toys - Know,Davis and Sons,36.07,482.63,380,4,2023-08-03
+138,Society Single,Toys,Toys - Growth,Robles Inc,114.94,292.9,488,39,2023-05-21
+139,Culture Shoulder,Clothing,Clothing - Admit,Romero-Barrett,39.87,185.8,80,16,2024-12-30
+140,Itself Against,Electronics,Electronics - Product,Taylor-Carroll,22.34,416.38,426,10,2023-05-22
+141,Commercial Evening,Clothing,Clothing - Have,Tucker-Mcdonald,475.06,74.36,540,45,2023-04-07
+142,Level Film,Home & Garden,Home & Garden - Student,"Baker, Martin and Blankenship",475.47,362.67,454,42,2023-06-28
+143,Sound Deal,Toys,Toys - Official,Walker LLC,23.07,60.08,61,42,2024-05-05
+144,Nor Much,Electronics,Electronics - Seek,"Conrad, Garcia and Hanson",608.12,90.92,164,1,2024-06-17
+145,Feeling Us,Sports,Sports - Something,"Brady, Pearson and Park",834.34,341.55,896,30,2023-05-15
+146,Least Training,Books,Books - Weight,"Krueger, Sparks and Camacho",714.28,132.74,585,33,2023-11-08
+147,Trip Upon,Home & Garden,Home & Garden - Project,Martin-Lawrence,712.25,214.72,160,18,2024-02-09
+148,By Arrive,Electronics,Electronics - Hear,Johnson-Green,526.28,489.07,128,48,2025-01-06
+149,Hundred Really,Clothing,Clothing - Region,"Jensen, Rhodes and Dominguez",406.39,32.72,401,12,2024-12-11
+150,Start Last,Toys,Toys - List,"Fernandez, Cruz and Coleman",976.22,304.52,79,45,2023-11-25
+151,Hand Recently,Sports,Sports - Third,"Anderson, Ward and Petersen",482.63,328.09,414,25,2023-10-16
+152,To Camera,Clothing,Clothing - Deep,"Wilson, Kent and Martinez",64.11,188.88,434,13,2023-06-11
+153,If Alone,Home & Garden,Home & Garden - Fine,Fletcher Ltd,117.31,43.52,617,50,2023-05-31
+154,Focus Skin,Home & Garden,Home & Garden - Support,"Hanson, Mcfarland and Avery",37.76,144.69,554,7,2024-06-08
+155,If Television,Electronics,Electronics - Degree,Edwards PLC,219.78,10.43,931,20,2024-09-29
+156,Letter Recognize,Clothing,Clothing - Arm,"Burns, Saunders and Miranda",556.16,321.0,33,16,2023-11-26
+157,Part Try,Home & Garden,Home & Garden - Onto,Morris Group,94.18,287.21,45,37,2023-07-07
+158,Term Debate,Sports,Sports - Life,Miller-Mason,55.21,160.72,966,20,2023-09-19
+159,Huge Purpose,Electronics,Electronics - Hard,"Carr, Mccarthy and Evans",980.73,377.08,981,26,2023-12-30
+160,When Month,Books,Books - Best,Mitchell-Johnson,202.92,377.16,743,23,2023-08-31
+161,Great Could,Clothing,Clothing - Teacher,Johnston Group,705.62,53.2,417,48,2025-01-07
+162,Buy Study,Books,Books - Community,Jarvis-White,109.98,404.71,153,2,2023-07-30
+163,Poor Summer,Books,Books - Should,"Contreras, Garza and Ross",798.1,241.09,889,3,2024-04-10
+164,Trouble Entire,Home & Garden,Home & Garden - Shake,Suarez-Galvan,169.6,342.78,80,41,2023-10-06
+165,In Mother,Electronics,Electronics - Explain,"Jones, Cooper and Johnson",953.28,119.63,220,44,2023-10-06
+166,When Make,Toys,Toys - Dinner,"Willis, Hudson and Fisher",149.44,360.68,986,33,2023-06-30
+167,Religious Use,Books,Books - Up,Stanton Inc,992.35,306.33,535,50,2023-12-25
+168,Front Full,Home & Garden,Home & Garden - Star,"Lopez, Cross and Vaughan",453.0,69.94,297,24,2025-01-23
+169,Question However,Books,Books - Man,Chambers PLC,857.38,218.3,912,46,2024-09-14
+170,Figure Draw,Toys,Toys - Number,"Johnson, Roberts and Davis",393.75,108.37,625,39,2023-09-09
+171,Available Side,Electronics,Electronics - Many,Webb Inc,958.43,285.62,509,7,2024-08-12
+172,Strategy Cup,Electronics,Electronics - Section,Guerrero PLC,151.19,435.88,560,6,2023-07-05
+173,Arrive Place,Sports,Sports - Environment,Douglas Inc,103.16,160.29,956,19,2023-05-31
+174,Outside People,Clothing,Clothing - May,Harrell Group,77.47,290.37,361,6,2024-04-23
+175,Poor Democratic,Electronics,Electronics - Another,Martin-Williams,187.38,387.11,264,31,2024-05-31
+176,Cup Cost,Home & Garden,Home & Garden - Price,Goodman-Ray,765.5,223.81,946,9,2024-09-07
+177,Evidence Eye,Electronics,Electronics - Try,Herring-Peterson,971.95,246.69,372,19,2024-03-22
+178,Media Around,Sports,Sports - Read,Alvarado LLC,414.93,311.74,696,9,2024-03-31
+179,Bill Itself,Sports,Sports - Sort,Jones-Navarro,373.05,423.19,974,21,2023-09-03
+180,Third Miss,Home & Garden,Home & Garden - Apply,Malone-Haas,92.65,209.53,460,17,2023-08-01
+181,Teach Computer,Toys,Toys - Record,Rodriguez-Roman,52.24,488.83,58,48,2024-12-15
+182,Until Majority,Clothing,Clothing - Serious,Hawkins-Thomas,702.74,282.6,158,7,2024-12-02
+183,Movement Production,Home & Garden,Home & Garden - Agency,Spencer Ltd,382.05,287.22,874,5,2024-07-02
+184,Wonder Training,Clothing,Clothing - Tend,"Estes, Ward and Lee",394.33,233.83,95,23,2024-11-26
+185,Serious Officer,Sports,Sports - Research,Perez-Thompson,473.79,269.88,837,30,2023-05-01
+186,Magazine We,Electronics,Electronics - Hair,Hernandez and Sons,94.95,367.23,939,26,2023-06-11
+187,Child Region,Sports,Sports - Ability,"Vance, Coleman and Rojas",207.47,167.72,324,22,2023-02-18
+188,Father In,Books,Books - Clearly,"Howard, Jones and Williams",491.42,352.63,487,8,2023-05-11
+189,Blood Song,Home & Garden,Home & Garden - Great,Moore Inc,460.02,274.82,971,31,2023-07-14
+190,Especially After,Clothing,Clothing - Reason,Davis-Ray,643.8,163.49,32,39,2024-07-07
+191,See Ready,Sports,Sports - Write,Wilkinson-Banks,71.77,405.22,808,28,2024-08-18
+192,Collection Garden,Sports,Sports - List,Lopez PLC,221.28,109.69,23,49,2024-05-16
+193,Opportunity Lay,Toys,Toys - Energy,Carter LLC,428.68,129.78,180,6,2023-03-29
+194,Serious Positive,Clothing,Clothing - Player,Henry-Hayes,78.56,205.51,305,46,2025-01-02
+195,Everyone Company,Sports,Sports - Evening,"Cook, Randolph and Johnson",872.57,264.77,685,17,2024-02-28
+196,Laugh Poor,Clothing,Clothing - Physical,Lee Group,832.23,50.76,923,28,2024-05-05
+197,Those Shake,Home & Garden,Home & Garden - Agree,Morales-Medina,963.72,151.97,203,23,2024-06-03
+198,Pressure Professional,Sports,Sports - Dark,"Mendoza, Smith and Garza",486.8,270.08,802,11,2023-11-04
+199,Mrs Back,Toys,Toys - Sense,Long-Barker,442.41,456.74,584,25,2023-10-29
+200,One Culture,Electronics,Electronics - And,Palmer-Johnson,565.29,447.42,203,5,2024-10-04
+201,Long Exactly,Toys,Toys - Little,Erickson LLC,671.27,310.17,331,43,2023-06-12
+202,Boy System,Toys,Toys - Kind,Barnes and Sons,745.4,369.68,324,1,2023-04-13
+203,Type Thing,Clothing,Clothing - Step,"Townsend, Avery and Forbes",897.53,467.24,511,21,2023-05-08
+204,Administration Tv,Electronics,Electronics - Computer,Simpson Group,794.09,338.6,269,34,2024-03-16
+205,Trouble Myself,Toys,Toys - Include,White Inc,13.63,228.03,852,9,2023-12-04
+206,Into Position,Toys,Toys - Need,Lucas and Sons,454.83,484.88,99,3,2024-01-23
+207,Minute Certain,Clothing,Clothing - Morning,Chung and Sons,748.24,97.89,713,35,2023-02-04
+208,Owner Force,Clothing,Clothing - Month,"Gordon, Jackson and Young",604.92,111.99,214,13,2024-10-01
+209,Page Nearly,Toys,Toys - Reduce,Walter-Green,581.06,12.11,833,24,2023-02-16
+210,Yet Key,Electronics,Electronics - Increase,"Hernandez, Hansen and Salazar",308.92,156.95,838,8,2023-10-02
+211,Drug Agree,Toys,Toys - Government,Cox-Lopez,504.13,499.53,423,27,2023-02-09
+212,Three Identify,Home & Garden,Home & Garden - Look,King-Jordan,358.68,273.52,535,49,2024-04-12
+213,Quite Know,Home & Garden,Home & Garden - Nice,Flowers Inc,122.24,92.03,438,24,2024-03-19
+214,Ready Take,Clothing,Clothing - Agreement,Parker Inc,557.22,85.52,446,25,2024-09-26
+215,Least Beyond,Home & Garden,Home & Garden - That,Thomas Group,846.63,345.83,447,41,2023-03-14
+216,Morning In,Home & Garden,Home & Garden - Feeling,Johnson-Hendrix,705.06,469.26,927,7,2025-01-02
+217,Maybe Control,Electronics,Electronics - Or,"Trevino, Pugh and Parker",807.87,56.39,665,2,2023-05-25
+218,Color Hospital,Books,Books - Figure,Martinez-Russo,933.16,56.32,767,49,2023-06-25
+219,Happen That,Books,Books - A,Zuniga Group,927.95,54.35,454,33,2023-08-16
+220,Edge These,Books,Books - Four,"Thomas, Mullins and Walker",807.8,335.52,872,27,2024-08-27
+221,Back Church,Clothing,Clothing - About,Shea-Saunders,230.64,230.04,390,8,2023-11-16
+222,Idea Stay,Clothing,Clothing - Help,Mejia-Ross,857.77,475.52,359,30,2024-03-07
+223,Say Put,Sports,Sports - Cover,Cline-Thomas,908.9,324.21,803,48,2024-11-17
+224,Buy Couple,Sports,Sports - Purpose,Williams PLC,17.52,190.45,229,33,2023-12-15
+225,Finally Threat,Home & Garden,Home & Garden - Performance,Singh LLC,274.92,331.05,314,27,2023-12-08
+226,Sound Rise,Toys,Toys - Half,Cervantes and Sons,249.13,450.59,424,3,2024-12-04
+227,Respond Pay,Electronics,Electronics - Have,Smith and Sons,35.97,396.3,860,34,2023-06-02
+228,Food Quality,Toys,Toys - Speech,"Velasquez, Phillips and Patel",603.94,170.87,982,37,2023-03-13
+229,Effect His,Sports,Sports - Toward,Rojas-Solomon,249.4,486.88,197,40,2024-10-21
+230,Public Newspaper,Toys,Toys - Food,George-Hester,399.37,30.53,954,37,2024-08-28
+231,Trip Once,Sports,Sports - Account,"Jackson, Ball and Foster",137.57,319.96,1000,47,2023-08-04
+232,Carry Two,Clothing,Clothing - Somebody,Campos Ltd,409.08,162.47,162,28,2023-08-16
+233,Ability Form,Clothing,Clothing - Inside,Cox Group,108.57,401.58,516,8,2023-05-21
+234,Best Office,Toys,Toys - Edge,Kaufman-Small,581.15,199.05,780,41,2024-01-13
+235,Yard American,Home & Garden,Home & Garden - Water,"Johnson, Moran and Barnett",838.95,83.73,330,14,2023-08-26
+236,Decide With,Electronics,Electronics - Nor,Jackson-Rojas,102.32,221.52,643,50,2023-03-09
+237,A Will,Books,Books - Voice,"Gray, Kramer and Palmer",161.51,310.96,556,6,2024-05-19
+238,Make Story,Books,Books - Protect,Ingram PLC,388.57,372.46,133,30,2023-12-20
+239,Protect Approach,Toys,Toys - Under,Thomas-White,635.18,182.27,245,42,2023-06-19
+240,Join Song,Clothing,Clothing - Watch,"Mueller, Richmond and Beasley",303.94,270.03,251,47,2024-09-09
+241,Wall Prevent,Sports,Sports - Unit,Ross-Howard,772.68,331.33,281,6,2023-05-01
+242,Say Produce,Clothing,Clothing - Stock,"Jones, Smith and Nelson",631.15,321.0,593,7,2025-01-07
+243,Sense Measure,Electronics,Electronics - Charge,"Silva, Thornton and Carpenter",464.53,299.97,109,10,2023-07-28
+244,Quickly Thousand,Home & Garden,Home & Garden - Should,Owens-Young,269.36,94.41,79,32,2023-10-28
+245,Several That,Home & Garden,Home & Garden - Manager,"King, Mora and Delgado",913.58,107.95,103,32,2024-08-12
+246,Glass Wish,Electronics,Electronics - Here,"Hughes, Acevedo and Watson",419.6,245.83,640,5,2023-07-27
+247,Similar Research,Clothing,Clothing - Half,Alvarez Group,690.45,190.75,321,41,2023-03-07
+248,Buy Soldier,Sports,Sports - Science,Watson-Parks,810.45,94.0,10,12,2024-04-11
+249,Single Very,Toys,Toys - These,Golden-Sawyer,571.61,305.29,32,8,2024-11-01
+250,Plant Woman,Home & Garden,Home & Garden - Child,"Fields, Brown and Spencer",993.79,244.54,628,39,2023-05-08
+251,Road Hold,Books,Books - Might,"Smith, Miller and Henson",14.95,263.27,260,8,2024-01-21
+252,Evening Surface,Clothing,Clothing - Owner,"Rice, Lindsey and Burton",610.04,270.3,530,33,2023-03-21
+253,Nice Toward,Clothing,Clothing - Away,Rodriguez LLC,224.13,185.62,920,14,2023-04-17
+254,Help Politics,Electronics,Electronics - Purpose,Adams Group,334.25,113.78,745,45,2024-05-20
+255,Better Magazine,Clothing,Clothing - Add,"White, Conway and Zimmerman",274.9,243.38,976,6,2024-11-23
+256,Method Law,Home & Garden,Home & Garden - The,Mills and Sons,710.99,327.7,478,48,2024-08-19
+257,Toward Recognize,Sports,Sports - Dream,Graves Inc,441.69,473.44,944,13,2024-02-05
+258,Type Task,Home & Garden,Home & Garden - View,Smith-Costa,181.22,345.09,908,46,2024-01-29
+259,Exist Other,Home & Garden,Home & Garden - Throw,Robinson Ltd,962.24,55.93,812,50,2024-12-13
+260,Share Parent,Books,Books - Defense,Williams Ltd,318.46,398.08,976,47,2024-09-12
+261,Successful Song,Sports,Sports - Teacher,Alexander-Rush,439.13,225.85,610,48,2024-03-20
+262,Image Natural,Home & Garden,Home & Garden - Over,Allen Group,817.72,313.34,621,25,2023-06-17
+263,Site Movement,Sports,Sports - Suddenly,Avila-Chambers,207.71,179.69,919,41,2023-05-24
+264,Stock Development,Electronics,Electronics - Require,Fischer-Peterson,454.9,445.28,981,33,2023-03-24
+265,Concern Investment,Home & Garden,Home & Garden - Per,"Maldonado, Prince and Chambers",590.99,150.27,846,42,2023-09-15
+266,Information Them,Books,Books - Serious,"Berger, Johnson and Marshall",358.72,19.82,184,21,2024-07-21
+267,But Situation,Sports,Sports - Believe,White Group,792.98,182.08,74,14,2024-01-06
+268,Friend Paper,Toys,Toys - Yet,Black-Young,377.93,76.79,321,8,2024-08-21
+269,Message Market,Electronics,Electronics - List,Ware Ltd,325.39,10.4,336,14,2023-06-08
+270,Foot Last,Sports,Sports - Anything,"Bowen, Garcia and Nelson",571.78,164.17,238,36,2023-08-25
+271,Vote Series,Electronics,Electronics - Person,Herrera-Carpenter,391.72,302.89,539,14,2024-04-27
+272,Respond Build,Electronics,Electronics - Image,"Rogers, Martinez and Campbell",565.34,359.55,968,43,2023-05-12
+273,War Address,Electronics,Electronics - Authority,Moore LLC,578.2,324.9,698,49,2024-11-26
+274,Follow Sound,Sports,Sports - Spring,Jackson-Aguirre,324.6,163.46,201,4,2024-12-19
+275,Book Trip,Sports,Sports - Represent,Hess and Sons,503.65,495.18,431,8,2023-08-30
+276,Seem Scientist,Electronics,Electronics - Green,Cannon-Larsen,458.25,302.71,605,25,2024-03-08
+277,Chair Poor,Clothing,Clothing - While,West-Clements,580.64,146.09,659,37,2024-07-17
+278,By Top,Electronics,Electronics - Realize,Morgan Group,912.52,145.76,861,26,2025-01-28
+279,Tonight Material,Electronics,Electronics - Store,Hernandez Ltd,896.86,459.43,40,22,2023-05-30
+280,Else Center,Toys,Toys - Former,"Ross, Williams and Hunt",26.1,237.6,849,27,2024-01-05
+281,Tell Perhaps,Toys,Toys - Maybe,"Williams, Williams and Lambert",307.98,162.01,354,26,2024-01-26
+282,Cause Wind,Electronics,Electronics - Against,Hayden-Stanley,560.88,160.02,627,4,2023-11-30
+283,Effort Actually,Sports,Sports - Produce,Chen-Taylor,305.45,492.06,505,42,2023-06-10
+284,Town Long,Electronics,Electronics - Current,Lee Inc,844.63,469.16,105,2,2023-04-13
+285,Day Draw,Clothing,Clothing - Study,"Taylor, Bass and Jimenez",57.35,10.15,107,21,2024-11-22
+286,Education Catch,Toys,Toys - Play,"Waller, Stewart and Stewart",727.0,117.04,90,13,2024-02-02
+287,Away Option,Toys,Toys - Market,Collins Ltd,903.24,187.6,924,35,2023-08-09
+288,Day Yeah,Electronics,Electronics - Network,Chen-Schneider,934.76,434.67,265,3,2024-05-08
+289,Analysis Order,Electronics,Electronics - Interview,Rogers PLC,57.51,155.62,270,22,2024-04-29
+290,Born Music,Toys,Toys - Only,Kidd-Terrell,616.61,407.18,276,45,2024-12-29
+291,Actually What,Clothing,Clothing - Would,Hall Inc,925.6,293.81,122,9,2024-05-25
+292,Buy Religious,Home & Garden,Home & Garden - Risk,"Wilkinson, Clark and Diaz",863.27,377.75,909,27,2023-08-10
+293,Although Share,Toys,Toys - Go,"Ellis, Parker and Lang",452.3,65.57,540,16,2024-01-01
+294,Project Cultural,Books,Books - Arrive,Ingram Inc,483.14,247.6,287,21,2023-04-14
+295,Herself Clearly,Toys,Toys - Thus,Adkins-Cox,487.87,50.44,784,19,2023-08-06
+296,Him Character,Toys,Toys - Father,Carter-Benton,91.96,281.47,893,16,2023-12-02
+297,Marriage Fast,Toys,Toys - Record,Jones-Foster,650.65,428.65,711,5,2024-05-26
+298,Any Particular,Electronics,Electronics - Certainly,Johnson-Hernandez,972.04,34.83,13,43,2024-01-09
+299,Capital Foreign,Clothing,Clothing - What,Fields and Sons,473.46,195.6,499,7,2024-10-14
+300,Sign Former,Home & Garden,Home & Garden - Usually,Calderon-Kramer,216.56,297.31,540,33,2024-04-15
+301,Pass Rule,Home & Garden,Home & Garden - Environmental,"Cannon, Smith and Jordan",762.87,159.35,464,42,2023-02-13
+302,Southern Leader,Clothing,Clothing - Their,Gilbert PLC,849.32,57.3,133,15,2024-01-30
+303,Drop Two,Home & Garden,Home & Garden - Money,Campbell Group,391.71,228.95,635,33,2024-12-07
+304,Without Popular,Clothing,Clothing - Enough,Gonzalez-Navarro,782.21,98.04,284,28,2023-05-04
+305,Check Maintain,Clothing,Clothing - Her,Hicks Ltd,689.39,475.99,591,42,2024-08-25
+306,Investment Reality,Electronics,Electronics - Owner,Wolf Ltd,155.81,438.72,762,8,2024-04-07
+307,Throw Buy,Clothing,Clothing - Grow,Byrd LLC,26.41,233.12,273,2,2023-12-01
+308,Detail Somebody,Sports,Sports - Father,"Cox, Atkinson and Holden",665.26,229.06,271,8,2023-12-18
+309,Human Anyone,Books,Books - Entire,"Sheppard, Carroll and Chavez",93.22,218.58,154,26,2024-05-19
+310,Program Something,Books,Books - Become,Spears-Arnold,436.53,170.2,451,18,2025-01-13
+311,Simply Lot,Home & Garden,Home & Garden - Always,Luna-Gutierrez,106.82,326.07,749,28,2024-09-29
+312,Production Contain,Clothing,Clothing - Training,Patterson Inc,301.06,204.33,608,18,2024-01-22
+313,Hit History,Books,Books - Strategy,"Smith, Alvarado and Chase",611.36,261.72,111,44,2023-07-14
+314,White Past,Electronics,Electronics - Ten,Pittman-Jones,649.87,479.69,224,8,2023-11-21
+315,Continue Country,Electronics,Electronics - Everyone,Shah-Barnes,896.1,289.74,244,5,2024-01-09
+316,Recognize Only,Books,Books - Condition,Bennett Group,110.01,117.1,635,45,2024-10-21
+317,Item Resource,Toys,Toys - Mission,Morgan Ltd,410.5,199.48,225,47,2023-04-13
+318,Poor Create,Toys,Toys - Structure,"Hogan, Miller and Calhoun",275.57,106.82,804,14,2023-05-21
+319,Toward Audience,Home & Garden,Home & Garden - As,Johnson LLC,640.52,354.4,294,47,2023-02-09
+320,Each Assume,Electronics,Electronics - Front,Dyer Group,103.29,254.1,717,40,2023-12-10
+321,By Remain,Sports,Sports - Risk,"Owen, Wilkinson and Novak",741.69,427.02,704,16,2023-03-06
+322,Now Follow,Clothing,Clothing - Give,Rogers-Gonzalez,321.95,39.38,191,22,2024-02-01
+323,Morning Win,Sports,Sports - Wind,"Montgomery, Washington and Peterson",150.41,11.3,485,28,2025-01-30
+324,Guess Effort,Home & Garden,Home & Garden - Close,Norman-Joseph,30.61,487.31,902,5,2024-08-03
+325,Participant One,Clothing,Clothing - Memory,Turner Group,682.4,427.28,608,23,2024-10-01
+326,Pm Front,Sports,Sports - Another,Price-Davis,587.32,246.71,253,31,2024-05-09
+327,Eat Between,Electronics,Electronics - Green,Campbell PLC,54.71,13.61,696,19,2023-07-25
+328,Travel Fast,Clothing,Clothing - Heavy,Barnes Inc,530.01,87.82,150,50,2023-05-22
+329,Space Event,Electronics,Electronics - There,"Hernandez, Baker and Palmer",108.98,402.93,343,29,2024-09-23
+330,Kid Game,Sports,Sports - Around,Macdonald PLC,737.46,494.95,263,43,2024-11-12
+331,With Imagine,Sports,Sports - Few,Vasquez-Lambert,260.99,232.08,847,23,2024-06-04
+332,Idea Way,Home & Garden,Home & Garden - Into,Harris-Stevens,713.05,446.23,793,43,2024-08-20
+333,Agency Recent,Books,Books - Southern,Young-Rivas,489.5,138.62,531,47,2024-05-10
+334,Risk Look,Toys,Toys - Truth,"Glass, Perez and Howard",30.51,489.43,876,15,2024-10-14
+335,Front Two,Toys,Toys - Sea,Johnson-Williams,994.14,181.81,31,16,2024-04-20
+336,Too Religious,Books,Books - Deal,Lee-Perez,743.59,486.78,368,14,2024-10-20
+337,Course Arrive,Toys,Toys - Democrat,"Clark, Price and Williams",98.37,460.72,386,41,2023-12-14
+338,Share According,Electronics,Electronics - Write,"Thomas, Bailey and Martin",965.79,439.19,695,35,2023-11-10
+339,A Itself,Sports,Sports - Here,"Fernandez, Stevens and Rojas",987.45,438.67,179,17,2024-02-25
+340,Describe Writer,Toys,Toys - Recent,"Lloyd, Hicks and Brown",355.35,168.94,603,27,2023-08-17
+341,Cause Happy,Home & Garden,Home & Garden - Successful,"Scott, Gonzalez and Miller",316.22,25.34,532,45,2024-09-26
+342,One Deep,Home & Garden,Home & Garden - Mother,"Vargas, Faulkner and Mason",835.82,65.87,814,30,2023-03-14
+343,Technology Able,Books,Books - Series,Palmer-Ross,968.46,397.21,295,8,2023-07-17
+344,Small Town,Electronics,Electronics - Modern,Farley LLC,503.93,344.34,477,44,2023-07-11
+345,Couple Morning,Clothing,Clothing - Inside,Maxwell-Watson,527.94,148.44,571,43,2023-09-21
+346,Understand Center,Clothing,Clothing - Coach,Carrillo Inc,310.6,147.69,818,19,2024-11-01
+347,Education Four,Electronics,Electronics - Blood,Gentry LLC,459.31,112.58,845,38,2023-02-05
+348,Because Hotel,Electronics,Electronics - Factor,Phillips Group,62.65,156.38,440,23,2023-12-06
+349,Color Level,Toys,Toys - Edge,Brown-Nelson,835.76,29.7,141,23,2023-05-20
+350,Class Cause,Home & Garden,Home & Garden - Season,Pacheco-Watson,787.4,253.49,981,50,2024-04-26
+351,Relate Group,Books,Books - Take,Gray-Lee,163.48,47.57,277,10,2023-02-15
+352,Participant Enter,Toys,Toys - Stage,"Roberts, Murphy and Jones",204.75,294.69,82,19,2024-08-04
+353,Thing Shoulder,Clothing,Clothing - Bar,Palmer Ltd,41.81,466.8,254,44,2023-03-31
+354,Name People,Toys,Toys - Recognize,Anderson Group,392.37,202.56,925,7,2024-03-30
+355,Kitchen Language,Home & Garden,Home & Garden - Road,Parker-Johnson,920.98,300.53,177,37,2024-10-08
+356,Late Mrs,Sports,Sports - Beautiful,"Guzman, Williamson and Brewer",682.12,164.63,592,9,2024-07-28
+357,With Great,Toys,Toys - Attention,Fletcher PLC,769.97,128.76,426,36,2023-12-21
+358,Nor Important,Clothing,Clothing - Arrive,Gonzalez-Cabrera,308.04,47.37,580,41,2024-08-04
+359,Marriage Future,Sports,Sports - Apply,"Brown, Richard and Benson",550.36,191.1,896,28,2023-08-07
+360,Any Economy,Electronics,Electronics - Enough,"Pierce, Douglas and Nichols",147.21,223.74,320,33,2023-07-29
+361,Wall Box,Toys,Toys - Area,Browning-Rollins,715.46,236.85,437,30,2023-04-24
+362,Event Here,Sports,Sports - Training,Barnes-Allen,961.82,233.34,934,36,2023-02-19
+363,Everyone Accept,Electronics,Electronics - Light,"King, Smith and Ashley",957.91,213.35,773,9,2024-11-11
+364,Field Compare,Books,Books - Them,Franklin PLC,907.77,394.38,594,33,2024-11-23
+365,Hit Send,Home & Garden,Home & Garden - Gun,Day-Wright,135.99,273.92,579,19,2023-12-13
+366,Ever Mention,Electronics,Electronics - Picture,Gould-Russell,757.77,199.37,412,43,2023-06-08
+367,Hard Make,Electronics,Electronics - Defense,"Gray, Barron and Hernandez",468.17,382.68,530,30,2023-07-02
+368,Image Man,Electronics,Electronics - Hand,"Pearson, Ward and Hale",93.8,138.74,665,7,2024-11-06
+369,Policy Address,Home & Garden,Home & Garden - Measure,Barnes Group,598.39,411.86,579,31,2023-08-17
+370,Public Nothing,Toys,Toys - Like,Lee and Sons,337.98,35.13,758,38,2024-02-18
+371,Too Hit,Toys,Toys - Report,"Richardson, Reed and Mitchell",515.7,359.89,718,14,2024-11-20
+372,Vote Stock,Books,Books - People,"Scott, Kaufman and Phillips",152.7,371.51,507,9,2024-04-11
+373,Long Stand,Clothing,Clothing - Recently,Miller and Sons,896.09,321.64,158,20,2023-12-05
+374,Material Them,Toys,Toys - Full,Cooper Inc,317.77,494.63,6,32,2024-04-03
+375,But Near,Books,Books - Become,Carter-Oneal,690.89,61.78,0,10,2024-02-04
+376,Plant Feel,Books,Books - In,"Valenzuela, Wu and Gordon",881.09,262.31,253,14,2024-01-07
+377,Various Care,Electronics,Electronics - Look,Mcbride PLC,478.99,417.2,454,26,2024-04-14
+378,Fund Apply,Electronics,Electronics - Simply,Alexander Inc,926.77,153.46,495,12,2023-06-04
+379,Anything Race,Clothing,Clothing - Clear,Rice and Sons,843.29,275.63,841,40,2024-11-20
+380,Soldier Wide,Toys,Toys - Police,Sullivan Inc,444.73,330.79,126,28,2023-03-10
+381,Direction Difficult,Clothing,Clothing - Author,"Evans, Contreras and Murphy",639.83,96.48,838,48,2024-05-06
+382,Health Director,Toys,Toys - Beyond,"Kelly, Castillo and Jones",248.27,258.2,716,35,2023-10-21
+383,Place Style,Clothing,Clothing - Authority,Steele-Li,481.39,148.57,683,7,2023-04-17
+384,He Add,Books,Books - Because,"Tran, Johnson and Wallace",498.02,335.51,400,25,2024-01-13
+385,Investment Government,Toys,Toys - Possible,Small-Ingram,801.85,234.66,833,28,2024-03-31
+386,Industry Plan,Clothing,Clothing - Behavior,Young Inc,37.68,231.26,577,25,2024-05-19
+387,Civil Break,Electronics,Electronics - Officer,"Hernandez, Pena and Harrison",584.72,21.87,666,43,2024-08-22
+388,Property Beautiful,Books,Books - Business,Wilson-Burke,450.02,454.51,363,9,2023-04-06
+389,Subject North,Sports,Sports - View,"Rivera, Thomas and Walters",883.59,231.88,9,11,2024-09-10
+390,Continue Most,Home & Garden,Home & Garden - Energy,Rosario Group,505.62,431.21,215,23,2024-06-20
+391,Message Case,Toys,Toys - Hotel,Swanson Group,529.8,258.96,178,42,2025-01-11
+392,Better Speak,Clothing,Clothing - Box,Brown and Sons,358.34,361.01,347,30,2023-08-19
+393,Listen Tv,Toys,Toys - War,Smith PLC,860.07,74.32,803,49,2024-02-13
+394,Budget Build,Toys,Toys - Big,"Houston, Long and Marshall",309.89,199.99,938,42,2024-12-02
+395,Describe Water,Sports,Sports - Movement,"Herrera, Flowers and Carson",382.75,238.52,674,12,2023-08-14
+396,South Story,Books,Books - Make,Owens LLC,711.41,255.96,674,34,2024-10-26
+397,Turn Certain,Home & Garden,Home & Garden - High,"Davidson, Fletcher and Jones",138.12,165.42,978,38,2023-12-09
+398,War Game,Home & Garden,Home & Garden - Partner,"Obrien, Wolf and Miller",588.64,415.79,69,3,2023-05-24
+399,Range Fear,Electronics,Electronics - Interesting,Smith-Huff,853.5,83.79,98,43,2024-09-25
+400,Understand Should,Electronics,Electronics - Wrong,Ibarra-Duncan,504.43,341.26,331,49,2024-02-11
+401,Own Might,Clothing,Clothing - Catch,Skinner LLC,981.51,405.23,750,16,2024-11-23
+402,So Quite,Electronics,Electronics - Reality,Vazquez PLC,900.79,91.13,913,25,2025-01-23
+403,Mention Remain,Sports,Sports - Stage,Young and Sons,923.14,35.65,256,8,2023-04-07
+404,Grow Form,Electronics,Electronics - Environmental,Nelson PLC,848.32,41.08,781,24,2023-11-25
+405,Run Resource,Books,Books - Expect,Wright-Curtis,634.97,19.58,178,21,2025-01-31
+406,Increase A,Electronics,Electronics - Record,Turner-Bailey,701.73,191.93,652,37,2023-09-16
+407,Business Event,Books,Books - My,Reynolds and Sons,207.73,129.98,448,44,2024-03-11
+408,Man Miss,Home & Garden,Home & Garden - Economy,Pierce-Warren,233.23,372.37,444,34,2023-11-17
+409,Similar Sometimes,Clothing,Clothing - Break,Park-Garrett,95.15,17.0,982,43,2024-03-27
+410,Brother Section,Electronics,Electronics - At,Lloyd Inc,211.49,405.95,914,1,2024-02-24
+411,Wide Those,Home & Garden,Home & Garden - Stock,"Ray, Baxter and Mills",776.63,286.31,885,5,2024-03-08
+412,Why Heart,Home & Garden,Home & Garden - Or,Zuniga LLC,193.44,366.34,932,47,2024-11-06
+413,Community Few,Toys,Toys - Forward,Moss-Phillips,532.86,99.12,212,37,2024-09-20
+414,Development Alone,Sports,Sports - Own,"Sanders, Maynard and Garcia",505.83,181.46,921,36,2023-02-14
+415,Off In,Clothing,Clothing - Surface,"Sullivan, George and Estes",803.57,222.24,640,25,2023-11-17
+416,Environment About,Electronics,Electronics - Seat,Jones-King,573.45,67.96,529,20,2024-03-27
+417,Finish Civil,Electronics,Electronics - Need,Newton Ltd,126.74,119.13,615,35,2023-10-14
+418,Family Ever,Home & Garden,Home & Garden - Trial,Garrison Inc,32.31,411.56,296,17,2023-12-27
+419,Work Mouth,Sports,Sports - Approach,Martin PLC,706.23,38.64,892,11,2024-12-08
+420,Wait Middle,Home & Garden,Home & Garden - Manager,Jones LLC,84.02,289.8,873,34,2024-12-16
+421,Although Down,Books,Books - Attorney,Foster Group,505.04,202.61,58,35,2023-12-27
+422,Table Speech,Toys,Toys - Mention,Wilcox-Gomez,892.88,293.47,959,17,2023-02-27
+423,Wife Writer,Toys,Toys - Help,Lowe-Brown,39.67,172.33,267,13,2023-11-25
+424,Human Someone,Home & Garden,Home & Garden - International,"Obrien, Harris and Mckinney",889.14,34.4,209,36,2023-08-30
+425,Which Effort,Toys,Toys - Enough,Mccarthy-Braun,336.3,379.89,934,4,2024-04-19
+426,Ever Friend,Clothing,Clothing - Seek,Gonzales Inc,498.61,403.8,577,40,2024-03-30
+427,Little Beautiful,Toys,Toys - Then,Cross-Collins,836.64,404.71,354,5,2024-01-01
+428,According It,Sports,Sports - Live,"Burns, Garner and Stephens",602.16,308.15,82,36,2024-12-13
+429,Nation No,Sports,Sports - My,"Carpenter, Joseph and Chapman",947.12,138.9,42,7,2023-06-25
+430,Suddenly Owner,Electronics,Electronics - Seat,Morris Ltd,501.62,116.5,358,28,2024-01-22
+431,When Move,Sports,Sports - Way,"Shea, Powell and Davis",310.37,425.67,994,15,2023-05-12
+432,Agency Begin,Electronics,Electronics - Bring,Henson-Walker,931.92,18.05,800,13,2023-03-27
+433,Republican Husband,Books,Books - Natural,"Davis, Stanton and Gardner",612.05,192.8,700,48,2024-02-23
+434,Occur Machine,Electronics,Electronics - Particularly,Rodriguez-Sparks,556.96,30.81,784,25,2024-04-05
+435,Effect Agency,Toys,Toys - Ever,Soto Group,133.98,352.16,562,9,2024-02-15
+436,Politics May,Electronics,Electronics - Floor,Reed Inc,443.56,449.09,925,24,2023-03-20
+437,Budget Plan,Home & Garden,Home & Garden - Through,Brown PLC,201.7,221.08,59,16,2023-03-15
+438,Discussion Top,Clothing,Clothing - Control,Kelly-Potter,101.06,9.97,422,48,2023-09-07
+439,Audience Western,Books,Books - Call,Huffman-White,572.36,495.51,15,47,2024-09-04
+440,World Some,Clothing,Clothing - After,Aguilar-Howard,814.49,42.92,129,29,2024-07-29
+441,Think Ball,Clothing,Clothing - Source,"Wood, Coffey and Hughes",289.76,160.49,616,42,2024-01-19
+442,Financial Fund,Clothing,Clothing - Message,Ramirez-Holt,998.1,69.21,407,31,2024-07-02
+443,Today Relationship,Toys,Toys - Without,"Mitchell, Smith and Pace",131.14,43.02,256,35,2024-10-14
+444,Medical Pass,Clothing,Clothing - Usually,Howell PLC,499.97,368.93,365,15,2024-05-02
+445,Pattern Quite,Sports,Sports - Power,Lewis-Reilly,715.99,471.01,798,36,2024-09-19
+446,Follow Operation,Home & Garden,Home & Garden - Total,"Scott, Crane and Hunter",870.27,125.88,914,18,2024-04-23
+447,Century Board,Home & Garden,Home & Garden - Today,Smith Group,700.78,254.21,55,23,2023-11-08
+448,Treat Rather,Sports,Sports - Keep,Green LLC,708.44,312.83,286,6,2024-12-15
+449,Rest Win,Clothing,Clothing - Nothing,Rose Inc,912.92,421.51,533,15,2023-09-16
+450,American Ball,Home & Garden,Home & Garden - Whose,Hays Inc,744.48,109.33,381,47,2024-10-11
+451,Significant Same,Clothing,Clothing - Tell,Brennan Inc,45.5,121.38,450,42,2023-08-05
+452,Become Green,Sports,Sports - Republican,"Dyer, Taylor and Yu",953.5,15.54,856,3,2023-12-29
+453,Brother Condition,Home & Garden,Home & Garden - Mother,"Abbott, Wallace and Anderson",285.18,195.17,847,6,2023-12-12
+454,Institution Issue,Electronics,Electronics - Source,Hill Group,286.29,306.83,507,2,2023-11-04
+455,College Research,Sports,Sports - Concern,"Cardenas, Guzman and Cabrera",390.81,26.99,210,25,2024-09-09
+456,Send Develop,Clothing,Clothing - Water,"Curry, Munoz and Price",663.32,268.58,676,20,2024-05-28
+457,These Lay,Electronics,Electronics - Town,"Horton, Carr and Thomas",546.12,177.16,26,39,2023-04-24
+458,Area Family,Home & Garden,Home & Garden - Security,Hoffman and Sons,923.46,454.19,829,49,2024-06-26
+459,Reduce Support,Books,Books - Doctor,"Pearson, Yates and Buckley",224.37,18.54,743,40,2023-12-30
+460,Stock Difference,Sports,Sports - Parent,"Davis, Baker and Smith",867.07,392.39,950,48,2024-07-21
+461,Usually Show,Electronics,Electronics - Sign,Baker LLC,809.31,278.88,975,47,2024-07-28
+462,Someone More,Toys,Toys - Father,Thompson-Wilson,294.53,495.49,547,30,2023-11-15
+463,Discover Nice,Sports,Sports - Food,"Jefferson, Bailey and Torres",576.87,286.31,531,17,2024-03-19
+464,Out Above,Clothing,Clothing - Why,Ward PLC,960.69,236.33,946,16,2024-07-31
+465,Financial Allow,Clothing,Clothing - Take,Meyers-King,908.63,143.95,698,18,2024-11-10
+466,Protect This,Electronics,Electronics - Avoid,Diaz Inc,998.81,386.81,302,22,2023-03-25
+467,Let Player,Books,Books - Teacher,"Sullivan, Mercado and Hammond",400.65,309.7,370,18,2024-11-08
+468,Century Never,Toys,Toys - Project,"Parks, Bell and Scott",258.0,328.25,790,39,2023-06-24
+469,Produce Crime,Electronics,Electronics - Degree,Robinson Ltd,133.05,286.38,328,17,2024-03-29
+470,Player Help,Clothing,Clothing - Head,Mcneil Inc,449.36,13.55,9,30,2024-06-22
+471,Question Campaign,Electronics,Electronics - Someone,Vega LLC,966.22,242.7,864,36,2023-09-23
+472,This Particular,Clothing,Clothing - Lead,Jones-Rosales,414.51,291.89,81,18,2024-04-06
+473,Scene Management,Books,Books - Great,White PLC,555.92,476.88,451,12,2023-03-13
+474,Marriage Wall,Home & Garden,Home & Garden - Have,Cook-Hayden,768.31,141.69,889,32,2023-11-13
+475,Area Rock,Clothing,Clothing - Cold,Hernandez-Brewer,235.13,91.38,892,40,2024-10-07
+476,Trouble Whose,Toys,Toys - Position,Day LLC,59.07,61.65,39,12,2025-01-17
+477,Despite Author,Toys,Toys - Order,Yates-Adams,511.64,222.95,324,3,2024-10-14
+478,Conference Hit,Books,Books - Doctor,"Smith, Myers and Dodson",720.17,35.1,731,17,2023-08-14
+479,Black Tell,Home & Garden,Home & Garden - Available,Malone LLC,25.95,423.24,869,23,2023-07-09
+480,Mouth Thing,Books,Books - Mention,Spencer Group,721.13,302.29,358,7,2024-05-31
+481,Mr Today,Electronics,Electronics - List,Gonzalez and Sons,511.86,61.03,79,16,2023-11-04
+482,Write Institution,Clothing,Clothing - Plant,"Thomas, Vaughn and Nelson",332.52,188.82,842,44,2023-03-26
+483,Career Already,Sports,Sports - Whose,Jackson-Wood,80.67,216.11,289,10,2023-02-08
+484,Gun Become,Electronics,Electronics - Prove,Bennett-Lowe,333.27,395.14,343,27,2024-08-22
+485,Business Cause,Toys,Toys - Magazine,Smith-Wiggins,380.96,471.53,301,40,2024-07-15
+486,Physical Land,Electronics,Electronics - Open,Roth-Webb,168.7,27.08,952,10,2025-01-09
+487,As Key,Books,Books - We,"Smith, Cortez and Goodwin",35.27,306.47,827,21,2025-01-30
+488,Spend Type,Books,Books - Fast,Moore Ltd,718.6,372.31,802,38,2024-09-20
+489,Sort Prove,Toys,Toys - Might,Jones-Pineda,350.6,111.36,850,38,2023-06-28
+490,College World,Electronics,Electronics - Daughter,"Alexander, Dalton and Lee",660.48,79.29,780,42,2023-08-16
+491,True Yard,Electronics,Electronics - Event,Herrera PLC,955.62,479.52,229,37,2023-12-23
+492,Raise Vote,Books,Books - Teach,Bailey-Burgess,997.82,317.01,751,27,2024-03-18
+493,The Arrive,Books,Books - Business,Brady LLC,735.71,424.56,540,4,2024-08-13
+494,Tough Prove,Books,Books - Tough,Park LLC,477.6,264.6,451,21,2024-04-15
+495,Degree Husband,Home & Garden,Home & Garden - Reveal,"Ballard, Brown and Curry",203.06,289.75,932,16,2024-10-25
+496,Somebody Various,Home & Garden,Home & Garden - Class,"Castillo, Gutierrez and Smith",250.63,384.98,370,15,2024-11-02
+497,Interesting Impact,Sports,Sports - Worker,Lopez-Campbell,321.66,486.34,709,16,2024-12-31
+498,Enough Computer,Sports,Sports - Understand,Jordan and Sons,735.46,440.71,370,6,2023-04-23
+499,Hope Rather,Home & Garden,Home & Garden - However,Santos-Carpenter,564.84,42.84,370,42,2023-06-25
+500,Know Stuff,Sports,Sports - Officer,Rice-Rodriguez,609.16,227.24,428,15,2024-11-23

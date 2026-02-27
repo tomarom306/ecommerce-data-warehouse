@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: warehouse
+    database: ecommerce_dw
+    schema: warehouse
+    tables:
+      - name: fact_orders
+      - name: fact_order_items
+      - name: dim_customer
+      - name: dim_product
+      - name: dim_date
+      - name: dim_payment_method
+      - name: dim_shipping_method

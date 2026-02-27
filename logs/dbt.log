@@ -1,0 +1,54 @@
+[0m11:14:51.177536 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B90D4F5BD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B90EE1D5D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B90EE1C490>]}
+
+
+============================== 11:14:51.187710 | 96738d8d-490e-413f-b629-24f6975eb4da ==============================
+[0m11:14:51.187710 [info ] [MainThread]: Running with dbt=1.5.2
+[0m11:14:51.187710 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'cache_selected_only': 'False', 'log_format': 'default', 'debug': 'False', 'fail_fast': 'False', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\asus\\.dbt', 'use_colors': 'True', 'indirect_selection': 'eager', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m11:14:51.187710 [warn ] [MainThread]: [ConfigFolderDirectory]: Unable to parse dict {'dir': WindowsPath('C:/Users/asus/.dbt')}
+[0m11:14:51.197950 [info ] [MainThread]: Creating dbt configuration folder at 
+[0m11:14:51.204643 [debug] [MainThread]: Starter project path: C:\Users\asus\ecommerce_data_warehouse\venv\lib\site-packages\dbt\include\starter_project
+[0m11:15:35.791416 [error] [MainThread]: Encountered an error:
+list index out of range
+[0m11:15:35.965524 [error] [MainThread]: Traceback (most recent call last):
+  File "C:\Users\asus\ecommerce_data_warehouse\venv\lib\site-packages\dbt\cli\requires.py", line 86, in wrapper
+    result, success = func(*args, **kwargs)
+  File "C:\Users\asus\ecommerce_data_warehouse\venv\lib\site-packages\dbt\cli\requires.py", line 71, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\asus\ecommerce_data_warehouse\venv\lib\site-packages\dbt\cli\main.py", line 457, in init
+    results = task.run()
+  File "C:\Users\asus\ecommerce_data_warehouse\venv\lib\site-packages\dbt\task\init.py", line 306, in run
+    adapter = self.ask_for_adapter_choice()
+  File "C:\Users\asus\ecommerce_data_warehouse\venv\lib\site-packages\dbt\task\init.py", line 231, in ask_for_adapter_choice
+    return available_adapters[numeric_choice - 1]
+IndexError: list index out of range
+
+[0m11:15:35.970598 [debug] [MainThread]: Command `dbt init` failed at 11:15:35.970598 after 44.91 seconds
+[0m11:15:35.970598 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B90D4F5BD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B90EE1DEA0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B90EE1F580>]}
+[0m11:15:35.973122 [debug] [MainThread]: Flushing usage events
+[0m11:19:53.099928 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028CBD7DA7A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028CBF771870>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028CBF771B10>]}
+
+
+============================== 11:19:53.118603 | ab7dc77e-92ec-4d96-a1af-86fb7734800d ==============================
+[0m11:19:53.118603 [info ] [MainThread]: Running with dbt=1.5.2
+[0m11:19:53.121402 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'profiles_dir': 'C:\\Users\\asus\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'indirect_selection': 'eager', 'use_colors': 'True', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m11:19:53.126504 [debug] [MainThread]: Starter project path: C:\Users\asus\ecommerce_data_warehouse\venv\lib\site-packages\dbt\include\starter_project
+[0m11:21:21.266553 [info ] [MainThread]: Profile ecommerce_analytics written to C:\Users\asus\.dbt\profiles.yml using target's sample configuration. Once updated, you'll be able to start developing with dbt.
+[0m11:21:21.267571 [info ] [MainThread]: 
+Your new dbt project "ecommerce_analytics" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m11:21:21.267571 [debug] [MainThread]: Command `dbt init` succeeded at 11:21:21.267571 after 88.26 seconds
+[0m11:21:21.272843 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028CBD7DA7A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028CBDA605E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028CBF771AB0>]}
+[0m11:21:21.272843 [debug] [MainThread]: Flushing usage events

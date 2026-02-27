@@ -1,0 +1,13 @@
+pandas==2.0.3
+psycopg2-binary==2.9.6
+sqlalchemy
+faker==19.2.0
+python-dotenv==1.0.0
+apache-airflow==2.6.3
+dbt-core==1.5.2
+dbt-postgres==1.5.2
+great-expectations
+pytest==7.4.0
+jupyter==1.0.0
+matplotlib==3.7.2
+seaborn==0.12.2

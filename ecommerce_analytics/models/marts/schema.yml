@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: mart_sales_summary
+    description: "Sales summary by date and product category"
+    columns:
+      - name: total_revenue
+        description: "Total revenue"
+        tests:
+          - not_null
+
+  - name: mart_customer_metrics
+    description: "Customer lifetime value and metrics"
+    columns:
+      - name: customer_id
+        description: "Unique customer identifier"
+        tests:
+          - not_null
+          - unique
+      - name: lifetime_value
+        tests:
+          - not_null
+
+  - name: mart_product_performance
+    description: "Product revenue and profit analysis"
+    columns:
+      - name: product_id
+        tests:
+          - not_null
+          - unique
