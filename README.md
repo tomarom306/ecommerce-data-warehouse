@@ -390,8 +390,9 @@ This project is [MIT](LICENSE) licensed.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/tomarom306)
+- GitHub: [@tomarom306](https://github.com/tomarom306)
 - LinkedIn: [Om Tomar](https://www.linkedin.com/in/om-tomar-6a5631226/)
 - Email: tomarom306@gmail.com
 
 ---
+
